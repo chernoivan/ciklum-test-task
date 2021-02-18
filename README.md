@@ -16,9 +16,15 @@ Application Functional Requirements:
 1. Create Product
 2. Create Order with a list of the products specified by id. User Id is auto generated.
 3. Showing following views:
-	a. | Product Name | Product Price | Product Status | for all products
-	b. | Product Name | Product Price | Product Status | by product Id
-	c. List all products, which have been ordered at least once, with total ordered quantity sorted descending by the quantity. 
-	d. | Order ID | Products total Price | Product Name | Products Quantity in orderEntry | Order Created Date [YYYY-MM-DD HH:MM ] | by order Id
-	e. List of all orders using previous view
+
+a. | Product Name | Product Price | Product Status | for all products
+
+b. | Product Name | Product Price | Product Status | by product Id
+
+c. List all products, which have been ordered at least once, with total ordered quantity sorted descending by the quantity. 
+
+d. | Order ID | Products total Price | Product Name | Products Quantity in orderEntry | Order Created Date [YYYY-MM-DD HH:MM ] | by order Id
+
+e. List of all orders using previous view
+
 4. Remove product by ID
